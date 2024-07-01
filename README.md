@@ -10,7 +10,6 @@ Bem-vindo ao repositório do projeto DreamHouse! Este projeto é uma aplicação
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Visão Geral
@@ -89,10 +88,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
     git push origin minha-feature
     ```
 5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
